@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Eureto
 - 👀 I’m interested in everything
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: email: matek891@gmail.com 
 
 <!---
